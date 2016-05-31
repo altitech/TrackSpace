@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackSpace</string>
+    <string name="title_activity_main">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_play_pause">Play/Pause</string>
+    <string name="action_main">Map</string>
+</resources>
